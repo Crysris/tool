@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "../../cpp/algo"
-		},
-		{
 			"path": "../../blog/Crysris.github.io"
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../../cpp/algo"
 		}
 	],
 	"settings": {}
